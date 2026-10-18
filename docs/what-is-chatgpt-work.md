@@ -4,7 +4,7 @@ ChatGPT Work is OpenAI's hosted agent inside ChatGPT that turns a goal into fini
 
 ## The product in one paragraph
 
-OpenAI describes ChatGPT Work as an agent that gathers context from the apps and files you connect, produces finished materials such as sheets, slides, docs, and web apps, and can stay with a complex project for hours by breaking it into smaller steps ([product page](https://openai.com/chatgpt-work)). OpenAI powers it with its own GPT models, and the model its pages named in October 2026 is GPT-6. The work runs in OpenAI's cloud on web and mobile, or in the ChatGPT desktop app for macOS and Windows ([help page](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)).
+OpenAI describes ChatGPT Work as an agent that gathers context from the apps and files you connect, produces finished materials such as sheets, slides, docs, and web apps, and can stay with a complex project for hours by breaking it into smaller steps ([product page](https://openai.com/chatgpt-work)). OpenAI powers it with its own GPT models, and GPT-6 Astra has run in ChatGPT Work since September 9, 2026. The work runs in OpenAI's cloud on web and mobile, or in the ChatGPT desktop app for macOS and Windows ([help page](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)).
 
 ## What it does well
 
