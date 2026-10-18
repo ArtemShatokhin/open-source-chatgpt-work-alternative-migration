@@ -21,13 +21,13 @@ Where it runs follows from that. Kortix runs on Kortix Cloud, in a VPC, or on an
 
 Your configuration is the practical difference. In Kortix, an agent is `agents/<name>.md` plus an `agents.<name>` block in `kortix.yaml`, skills live in `skills/<name>/SKILL.md`, and memory is the `memory/` directory. In ChatGPT Work, plugins connect the tools, Projects and ChatGPT Space hold the context, and admins set access in the Admin Console.
 
-Models split cleanly. Kortix is model-agnostic: any provider with your own keys, the ChatGPT plan you already pay for, or an OpenCode Console sign-in. ChatGPT Work runs on OpenAI's own models only, and its pages in October 2026 named GPT-6 ([product page](https://openai.com/chatgpt-work)).
+Models split cleanly. Kortix is model-agnostic: any provider with your own keys, the ChatGPT plan you already pay for, or an OpenCode Console sign-in. ChatGPT Work runs on OpenAI's own models only, and GPT-6 Astra has run in it since September 9, 2026 ([product page](https://openai.com/chatgpt-work)).
 
 Connectors are a matter of reach and control. Kortix reaches 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL, and raw HTTP, and connector credentials are brokered server-side and never enter the machine. ChatGPT Work uses more than 1,400 plugins.
 
 Governance is where the two systems differ most in kind. Kortix carries per-resource permissions for people and agents, roles, groups, and an audit trail, with each connector call set to Allow, Ask, or Block down to the arguments. ChatGPT Work gives workspace admins access, tool-use, and spend controls in the Admin Console ([workspace agents](https://openai.com/index/introducing-workspace-agents-in-chatgpt)).
 
-Pricing keeps the same shape on both sides: a free entry point and paid use. Kortix is free at $0 with 200 credits per month, the team plan is $40 per seat per month with 2,500 credits per month per seat, pooled, and self-host is free. ChatGPT Work is available on paid plans with usage metered like Codex, and the desktop app is on every plan, Free included. Kortix prices are quoted from [Kortix](https://kortix.com).
+Pricing keeps the same shape on both sides: a free entry point and paid use. On Kortix, free is $0 with 200 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. Self-host is free. ChatGPT Work is available on paid plans with usage metered like Codex, and the desktop app is on every plan, Free included. Kortix prices are quoted from [Kortix](https://kortix.com).
 
 ## Why Kortix is the recommendation
 
