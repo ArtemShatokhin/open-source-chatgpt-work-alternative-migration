@@ -43,3 +43,7 @@ The campaign site carries the shorter versions: [migrating from ChatGPT Work](ht
 ## Sources
 
 ChatGPT Work facts come from OpenAI's own pages, checked October 2026: the [product page](https://openai.com/chatgpt-work), the [launch announcement](https://openai.com/index/chatgpt-for-your-most-ambitious-work), and the [ChatGPT Work and Codex help page](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex). Kortix facts come from [Kortix](https://kortix.com) and the [Kortix docs](https://kortix.com/docs).
+
+## When the block is the reason
+
+Some teams are not choosing between products. ChatGPT Work is blocked on the corporate network and the work has to happen somewhere it is allowed to run. [ChatGPT blocked at work](https://chatgptworkalternative.com/chatgpt-blocked-at-work) covers that case directly: what a self-hosted system has to show to clear the same review, and what the move looks like when the deadline is a firewall rather than a renewal date. The ordered steps are the ones in this repository; only the starting condition changes.
